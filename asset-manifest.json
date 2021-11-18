@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ShreenithyaRK/amd-telecom/static/css/main.f0ff4c8f.chunk.css",
-    "main.js": "/ShreenithyaRK/amd-telecom/static/js/main.86f17696.chunk.js",
-    "main.js.map": "/ShreenithyaRK/amd-telecom/static/js/main.86f17696.chunk.js.map",
+    "main.js": "/ShreenithyaRK/amd-telecom/static/js/main.f289eab7.chunk.js",
+    "main.js.map": "/ShreenithyaRK/amd-telecom/static/js/main.f289eab7.chunk.js.map",
     "runtime-main.js": "/ShreenithyaRK/amd-telecom/static/js/runtime-main.d47ecaed.js",
     "runtime-main.js.map": "/ShreenithyaRK/amd-telecom/static/js/runtime-main.d47ecaed.js.map",
     "static/js/2.8361e83e.chunk.js": "/ShreenithyaRK/amd-telecom/static/js/2.8361e83e.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.d47ecaed.js",
     "static/js/2.8361e83e.chunk.js",
     "static/css/main.f0ff4c8f.chunk.css",
-    "static/js/main.86f17696.chunk.js"
+    "static/js/main.f289eab7.chunk.js"
   ]
 }
