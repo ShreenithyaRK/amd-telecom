@@ -24,7 +24,6 @@ export default function Home() {
          }
  }).then(res => {
      setLoading(false);
-     setSearchQuery(searchInput)
      setSearchResult(res.data.organic_results);
     
  })
